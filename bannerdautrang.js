@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://giahungreal.com.vn' target='_blank'><img src='https://3.bp.blogspot.com/-pc-_T23QXEM/W5Iq8AvLMbI/AAAAAAAAAFY/ChEVNAelwVoM-JMGF4eQ-gO_xcoHGVXGgCLcBGAs/s640/297b8c4b2b05cb5b9214.jpg' width='500px'/><br/>Bán dự án an phú 1 Bình Dương Liên hệ : 0937.034.814</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://giahungreal.com.vn' target='_blank'><img src='https://3.bp.blogspot.com/-pc-_T23QXEM/W5Iq8AvLMbI/AAAAAAAAAFY/ChEVNAelwVoM-JMGF4eQ-gO_xcoHGVXGgCLcBGAs/s640/297b8c4b2b05cb5b9214.jpg' width='500px'/><br/>Bán dự án an phú 1 Bình Dương </a>. Liên hệ : 0937.034.814. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
