@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://giahungreal.co.vn';
+	var url_popup = 'https://giahungreal.com.vn';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
